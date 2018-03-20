@@ -1,0 +1,12 @@
+C:\Users\ashes\source\repos\CrystalReport1\CrystalReport1\bin\Debug\CrystalReport1.exe.config
+C:\Users\ashes\source\repos\CrystalReport1\CrystalReport1\bin\Debug\CrystalReport1.exe
+C:\Users\ashes\source\repos\CrystalReport1\CrystalReport1\bin\Debug\CrystalReport1.pdb
+C:\Users\ashes\source\repos\CrystalReport1\CrystalReport1\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ashes\source\repos\CrystalReport1\CrystalReport1\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ashes\source\repos\CrystalReport1\CrystalReport1\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ashes\source\repos\CrystalReport1\CrystalReport1\obj\Debug\CrystalReport1.csprojResolveAssemblyReference.cache
+C:\Users\ashes\source\repos\CrystalReport1\CrystalReport1\obj\Debug\CrystalReport1.Properties.Resources.resources
+C:\Users\ashes\source\repos\CrystalReport1\CrystalReport1\obj\Debug\CrystalReport1.csproj.GenerateResource.Cache
+C:\Users\ashes\source\repos\CrystalReport1\CrystalReport1\obj\Debug\CrystalReport1.csproj.CoreCompileInputs.cache
+C:\Users\ashes\source\repos\CrystalReport1\CrystalReport1\obj\Debug\CrystalReport1.exe
+C:\Users\ashes\source\repos\CrystalReport1\CrystalReport1\obj\Debug\CrystalReport1.pdb
